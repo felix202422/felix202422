@@ -1,4 +1,4 @@
-<h1 align="center">> Fizzo_Hendrix</h1>
+<h1 align="center"> Fizzo_Hendrix</h1>
 
 <p align="center">
   <b>Computer Engineering Student • Software Developer • Cybersecurity Enthusiast</b>
