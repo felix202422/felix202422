@@ -1,4 +1,9 @@
-<h1 align="center"> Fizzo_Hendrix</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=5000&color=1E6FFF&center=true&vCenter=true&width=500&lines=Fizzo_Hendrix"
+    alt="Fizzo_Hendrix"
+  />
+</p>
 
 <p align="center">
   <b>Computer Engineering Student • Software Developer • Cybersecurity Enthusiast</b>
