@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Computer Engineering Student • Software Developer • Cybersecurity Enthusiast</b>
+  <b>Computer Engineering Student • Full-Stack Developer • Cybersecurity Enthusiast</b>
 </p>
 
 <p align="center">
