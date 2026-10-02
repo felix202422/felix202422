@@ -31,7 +31,7 @@
 Name       : Felix Haule
 Handle     : Fizzo_Hendrix
 Education  : Computer Engineering Student
-Role       : Software Developer
+Role       : Full-Stack Developer
 Focus      : Full-Stack Development & Cybersecurity
 Backend    : Java, Spring Boot, Python
 Frontend   : React, JavaScript, HTML, CSS
